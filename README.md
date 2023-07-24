@@ -18,7 +18,7 @@ I'm Akshay Hegde, a passionate data scientist with a keen interest in exploring 
 
 > EAT.CODE.REPEAT
 
-![Data Science Gif](https://media.giphy.com/media/3o6nUNBG2Hc3MnQ1w4/giphy.gif)
+![Data Science Gif](<iframe src="https://giphy.com/embed/r3Zq5WGdewkiewvxCh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/r3Zq5WGdewkiewvxCh">via GIPHY</a></p>)
 
 Keep coding and exploring the world of data science! 🚀
 
